@@ -1,0 +1,8 @@
+Dark
+#0369a1
+
+Neutral
+#38bdf8
+
+Light
+#f0f9ff
